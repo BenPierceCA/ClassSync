@@ -1,0 +1,16 @@
+c:\sandbox\ClassSync\ClassSync\bin\Debug\ClassSync.exe.config
+c:\sandbox\ClassSync\ClassSync\bin\Debug\ClassSync.exe
+c:\sandbox\ClassSync\ClassSync\bin\Debug\ClassSync.pdb
+c:\sandbox\ClassSync\ClassSync\bin\Debug\RestSharp.dll
+c:\sandbox\ClassSync\ClassSync\bin\Debug\RestSharp.xml
+c:\sandbox\ClassSync\ClassSync\obj\Debug\ClassSync.csprojResolveAssemblyReference.cache
+c:\sandbox\ClassSync\ClassSync\obj\Debug\ClassSync.exe
+c:\sandbox\ClassSync\ClassSync\obj\Debug\ClassSync.pdb
+c:\sandbox\ClassSync\ClassSync\bin\Debug\Newtonsoft.Json.dll
+c:\sandbox\ClassSync\ClassSync\bin\Debug\Newtonsoft.Json.xml
+c:\sandbox\ClassSync\ClassSync\bin\Debug\HtmlAgilityPack.dll
+c:\sandbox\ClassSync\ClassSync\bin\Debug\HtmlAgilityPack.pdb
+c:\sandbox\ClassSync\ClassSync\bin\Debug\HtmlAgilityPack.xml
+C:\Sandbox\ClassSync\ClassSync\bin\Debug\Dapper.dll
+C:\Sandbox\ClassSync\ClassSync\bin\Debug\Dapper.xml
+C:\Sandbox\ClassSync\ClassSync\bin\Debug\App.config
